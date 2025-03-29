@@ -2,7 +2,7 @@
 # Hi! I'm Gayan Kaushalya
 
 ## 🚀 About Me
-I'm a Data Science and Engineering Undergraduate.
+I'm a Computer Science and Engineering Undergraduate.
 
 
 ## Reach me at
